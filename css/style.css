@@ -184,11 +184,12 @@ div.content div div div#aside b {
 	display: block;
 	padding: 5px 0 5px 25px;
 }
-
-
-
-
-
+div.content div div div#aside div {
+	height: auto;
+	overflow: hidden;
+	padding-top: 0;
+	width: auto;
+}
 div.content div div div#aside div ol {
 	float: left;
 	list-style: none;
